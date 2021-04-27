@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileChooserExample</string>
+    <string name="pick_a_file">Pick a file</string>
+    <string name="file_path">File Path:</string>
+</resources>
